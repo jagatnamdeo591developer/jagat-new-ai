@@ -1,0 +1,8 @@
+{
+  "name": "jagat ai",
+  "description": "Multilingual AI assistant supporting Hindi, English, and Hinglish chat, image generation and editing, and AI video creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
